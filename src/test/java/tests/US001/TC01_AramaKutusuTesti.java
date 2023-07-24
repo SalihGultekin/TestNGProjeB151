@@ -10,6 +10,6 @@ public class TC01_AramaKutusuTesti {
     public void test01() {
         Driver.getDriver().get(ConfigReader.getProperty("amazonUrl"));
         Page page=new Page();
-
+        //amazon sayfasına gidilip test edildi
     }
 }
