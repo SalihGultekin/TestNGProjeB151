@@ -11,5 +11,6 @@ public class TC01_AramaKutusuTesti {
         Driver.getDriver().get(ConfigReader.getProperty("amazonUrl"));
         Page page=new Page();
         //amazon sayfasına gidilip test edildi
+        //yücel bey yeni kodlar ekledi
     }
 }
